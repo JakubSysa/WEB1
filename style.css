@@ -1,0 +1,316 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+body{
+    display: flex;
+    height: 100vh;
+    background-color: #F5FAFF;
+}
+
+
+.ramka{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+    flex-direction: column;
+    border: 4px solid black;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    height: 12%;
+    width: 100%;
+    padding: 2px;
+    
+}
+
+.top1{
+    height: 100%;
+    width: 78%;
+    margin: 1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 4px solid black;
+    
+}
+
+.top2{
+    height: 100%;
+    width: 20%;
+    text-align: center;
+    border: 4px solid black;
+    font-size: larger;
+}
+
+
+.blok1{
+    background-color: #0B8673;
+    display: flex;
+    margin: 10px;
+    height: 50%;
+    color: white;
+    width: 8%;
+    text-align: center;
+    font-size: larger;
+    padding: 7px;
+}
+
+.blok2{
+    background-color: #0B8673;
+    display: flex;
+    gap: 10px;
+    height: 50%;
+    color: white;
+    width: 8%;
+    text-align: center;
+    font-size: larger;
+    padding: 7px;
+}
+
+.blok3{
+    background-color: #0B8673;
+    display: flex;
+    margin: 10px;
+    color: white;
+    height: 50%;
+    width: 8%;
+    text-align: center;
+    font-size: larger;
+    padding: 7px;
+    
+
+}
+
+
+.blok4{
+    background-color: #0B8673;
+    display: flex;
+    color: white;
+    margin: 10px;
+    padding: 7px;
+    height: 50%;
+    width: 8%;
+    text-align: center;
+    font-size: larger;
+}
+
+
+.center{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    margin: 2px;
+    padding: 2px;
+}
+
+
+.center1{
+    display: flex;
+    border: 4px solid black;
+    flex-direction: column;
+    height: 98%;
+    width: 78%;
+    padding: 2px;
+    
+}
+
+.centertop{
+    display: flex;
+    width: 100%;
+    height: 50%;
+    
+    
+}
+
+
+
+
+.center2{
+    display: flex;
+    height: 100%;
+    width: 20%;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.centergora{
+    padding: 30px;
+    font-size: larger;
+    display: flex;
+    flex-direction: column;
+    height: 90%;
+    width: 100%;
+    
+}
+
+.centerdol{
+    border: 4px solid black;
+    display: flex;
+    height: 20%;
+    width: 100%;
+    font-size: x-large;
+    text-align: center;
+    padding: 25px;
+    gap: 35px;
+    margin: 15px;
+    
+    
+    
+}
+
+.centerleft{
+    padding: 30px;
+}
+
+
+.centermid{
+    width: 100%;
+    text-align: left;
+    font-size: xx-large;
+    padding: 60px;
+    
+    
+}
+
+.centerbottom{
+    display: flex;
+    height: 50%;
+    width: 100%;
+
+}
+    
+
+
+.Experience{
+    height: 85%;
+    width: 55%;
+    border: 4px solid black;
+    display: flex;
+    margin: 50px;
+    flex-direction: column;
+    font-size: larger;
+    gap: 5px;
+}
+
+
+
+
+.kwadrat1{
+text-align: center;
+padding: 20px;
+font-size: larger;
+}
+
+
+.kwadrat2{
+    
+    display: flex;
+    height: 80%;
+    width: 100%;
+    background-color: black;
+    flex-direction: column;
+    color: white;
+    font-size: large;
+    justify-content: space-between;
+    
+
+}
+
+.tekst{
+    
+    
+    font-size: large;
+}
+
+.tekst1{
+    font-size: large;
+    color: white;
+}
+
+
+.Contactme{
+    height: 85%;
+    width: 55%;
+    border: 4px solid black;
+    display: flex;
+    margin: 50px;
+    flex-direction: column;
+    font-size: larger;
+    gap: 5px;
+}
+
+
+
+
+.kwadrat3{
+    height: 35%;
+    width: 100%;
+    background-color: black;
+    font-size: xx-large;
+    text-align: left;
+    
+    color: white;
+
+}
+
+.tekst3{
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+}
+
+.obrazek{
+    text-align: right;
+    height: 20%;
+    
+    
+}
+
+
+.kwadrat4{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.email{
+    display: flex;
+    height:  35%;
+    width: 100%;
+    padding: 2px;
+}
+.message{
+
+    display: flex;
+    height: 100%;
+    width: 100%;
+    padding: 2px;
+
+    
+}
+
+.centerright{
+    flex-direction: column;
+    display: flex;
+    font-size: larger;
+    padding: 40px;
+    margin: 40px;
+    height: 10%;
+    width: 30%;
+
+    
+}
+
